@@ -1,0 +1,4 @@
+com\empapp\controller\EmpController.class
+com\empapp\service\InstanceInformationService.class
+com\empapp\ServletInitializer.class
+com\empapp\EmpappwarApplication.class

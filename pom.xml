@@ -11,7 +11,7 @@
 	<groupId>com.empapp</groupId>
 	<artifactId>empappwar</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+
 	<name>empappwar</name>
 	<description>Demo project for Spring Boot</description>
 
